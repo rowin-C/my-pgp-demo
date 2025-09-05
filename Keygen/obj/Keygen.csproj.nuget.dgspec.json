@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rowin/projects/aniworks/keygen/Keygen/Keygen.csproj": {}
+  },
+  "projects": {
+    "/home/rowin/projects/aniworks/keygen/Keygen/Keygen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rowin/projects/aniworks/keygen/Keygen/Keygen.csproj",
+        "projectName": "Keygen",
+        "projectPath": "/home/rowin/projects/aniworks/keygen/Keygen/Keygen.csproj",
+        "packagesPath": "/home/rowin/.nuget/packages/",
+        "outputPath": "/home/rowin/projects/aniworks/keygen/Keygen/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rowin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BouncyCastle.Cryptography": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

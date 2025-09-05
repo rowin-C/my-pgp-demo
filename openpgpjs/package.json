@@ -1,0 +1,6 @@
+{
+  "type":"module",
+  "dependencies": {
+    "openpgp": "^6.2.2"
+  }
+}

@@ -1,0 +1,17 @@
+/home/rowin/projects/aniworks/keygen/Keygen/bin/Debug/net8.0/Keygen
+/home/rowin/projects/aniworks/keygen/Keygen/bin/Debug/net8.0/Keygen.deps.json
+/home/rowin/projects/aniworks/keygen/Keygen/bin/Debug/net8.0/Keygen.runtimeconfig.json
+/home/rowin/projects/aniworks/keygen/Keygen/bin/Debug/net8.0/Keygen.dll
+/home/rowin/projects/aniworks/keygen/Keygen/bin/Debug/net8.0/Keygen.pdb
+/home/rowin/projects/aniworks/keygen/Keygen/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/home/rowin/projects/aniworks/keygen/Keygen/obj/Debug/net8.0/Keygen.csproj.AssemblyReference.cache
+/home/rowin/projects/aniworks/keygen/Keygen/obj/Debug/net8.0/Keygen.GeneratedMSBuildEditorConfig.editorconfig
+/home/rowin/projects/aniworks/keygen/Keygen/obj/Debug/net8.0/Keygen.AssemblyInfoInputs.cache
+/home/rowin/projects/aniworks/keygen/Keygen/obj/Debug/net8.0/Keygen.AssemblyInfo.cs
+/home/rowin/projects/aniworks/keygen/Keygen/obj/Debug/net8.0/Keygen.csproj.CoreCompileInputs.cache
+/home/rowin/projects/aniworks/keygen/Keygen/obj/Debug/net8.0/Keygen.csproj.CopyComplete
+/home/rowin/projects/aniworks/keygen/Keygen/obj/Debug/net8.0/Keygen.dll
+/home/rowin/projects/aniworks/keygen/Keygen/obj/Debug/net8.0/refint/Keygen.dll
+/home/rowin/projects/aniworks/keygen/Keygen/obj/Debug/net8.0/Keygen.pdb
+/home/rowin/projects/aniworks/keygen/Keygen/obj/Debug/net8.0/Keygen.genruntimeconfig.cache
+/home/rowin/projects/aniworks/keygen/Keygen/obj/Debug/net8.0/ref/Keygen.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "su9f7/eV+PCT8BlNjqnm1ETUaIMifyfMKaJU5KSqhrniRg1u7PGIRNF770rblxJNfbKSkS0m05QdXLZEWP0VWg==",
+  "success": true,
+  "projectFilePath": "/home/rowin/projects/aniworks/keygen/Keygen/Keygen.csproj",
+  "expectedPackageFiles": [
+    "/home/rowin/.nuget/packages/bouncycastle.cryptography/2.6.2/bouncycastle.cryptography.2.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
